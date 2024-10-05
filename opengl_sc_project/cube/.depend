@@ -1,0 +1,7 @@
+main.o: main.cc ../common.h \
+ /home/josue/Documents/vortex-refactor-opengl/egl/include/EGL/egl.h \
+ /home/josue/Documents/vortex-refactor-opengl/egl/include/EGL/eglplatform.h \
+ /home/josue/Documents/vortex-refactor-opengl/egl/include/KHR/khrplatform.h \
+ /home/josue/Documents/vortex-refactor-opengl/egl/include/EGL/eglext.h \
+ /home/josue/Documents/vortex-refactor-opengl/openglsc/include/GLSC2/glsc2.h \
+ /home/josue/Documents/vortex-refactor-opengl/openglsc/include/GLSC2/gl2platform.h
